@@ -1,0 +1,118 @@
+body {
+    background-color: black;
+    overflow-y: auto;
+    margin: 0; 
+    height: 200vh; 
+}
+
+.Control-Panel {
+    background-color: snow;
+    width: 50%;
+    height: 45px;
+    position: fixed; 
+    top: 2%;
+    border-radius: 20px;
+    left: 26%;
+    z-index: 1000;
+}
+
+.Films {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 31%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Tvseries {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 39%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Home {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 48%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Tv {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 57.5%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Profile {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 63%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Spirited-Away{
+    border-radius: 20px;
+    position: relative;
+    left: 10%;
+    padding-top: 9.5%;
+}
+
+.Train-Dragon,.Zootopia,.Coraline-In-Nightmareland,.Lego-Movie,.Red-turtle,.Soul{
+    border-radius: 20px;
+    position: relative;
+    left: 10%;  
+}
+
+.Mary-And-Max {
+    padding-top: 10%;
+    border-radius: 20px;
+    position: relative;
+    left: 10%;
+}
+
+.Top,.Wild-Robot,.Cat-In-Boots,.Kung-Fu-Panda{
+    border-radius: 20px;
+    position: relative;
+    left: 10%;
+}

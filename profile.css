@@ -1,0 +1,140 @@
+body {
+    background-color: black;
+    overflow-y: auto;
+    margin: 0; 
+    height: 200vh; 
+}
+
+.Control-Panel {
+    background-color: snow;
+    width: 50%;
+    height: 45px;
+    position: fixed; 
+    top: 2%;
+    border-radius: 20px;
+    left: 26%;
+    z-index: 1000;
+}
+
+.Films {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 31%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Tvseries{
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 39%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Cartoons {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 47%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Tv {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 57.5%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Home {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 63%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Your-Profile {
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    padding-top: 100px; 
+    padding-left: 44.5%;
+}
+
+.Your-Name {
+    background-color: snow;
+    width: 30%;
+    height: 45px;
+    position: fixed; 
+    top: 19%;
+    border-radius: 20px;
+    left: 36%;
+    z-index: 1000;
+    
+}
+
+.Your-Surname {
+    background-color: snow;
+    width: 30%;
+    height: 45px;
+    position: fixed; 
+    top: 27%;
+    border-radius: 20px;
+    left: 36%;
+    z-index: 1000;
+    
+}
+
+.Your-Phone-Number {
+    background-color: snow;
+    width: 30%;
+    height: 45px;
+    position: fixed; 
+    top: 35%;
+    border-radius: 20px;
+    left: 36%;
+    z-index: 1000;
+    
+}
+
+

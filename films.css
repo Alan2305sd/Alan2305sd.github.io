@@ -1,0 +1,117 @@
+body {
+    background-color: black;
+    overflow-y: auto;
+    margin: 0; 
+    height: 200vh; 
+}
+
+.Control-Panel {
+    background-color: snow;
+    width: 50%;
+    height: 45px;
+    position: fixed; 
+    top: 2%;
+    border-radius: 20px;
+    left: 26%;
+    z-index: 1000;
+}
+
+.Home {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 31%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Tvseries {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 39%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Cartoons {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 47%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Tv {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 57.5%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Profile {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 63%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Mind-Games {
+    border-radius: 20px;
+    position: relative;
+    left: 10%;
+    padding-top: 10.5%;
+}
+
+.Brother,.Forest-Gamp,.Hatiko,.Lord-Of-The-Rings,.Lion-King,.Martian {
+    border-radius: 20px;
+    position: relative;
+    left: 10%;
+}
+
+.John-Wick-4 {
+    padding-top: 10%;
+    position: relative;
+    left: 10%;
+}
+
+.Translator,.Paradise,.Spider-Man-Web-of-Universes,.Spider-Man-No-Way-Home {
+    border-radius: 20px;
+    position: relative;
+    left: 10%;
+}

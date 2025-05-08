@@ -1,0 +1,132 @@
+body {
+    background-color: black;
+    overflow-y: auto;
+    margin: 0; 
+    height: 200vh; 
+}
+
+.Control-Panel {
+    background-color: snow;
+    width: 50%;
+    height: 45px;
+    position: fixed; 
+    top: 2%;
+    border-radius: 20px;
+    left: 26%;
+    z-index: 1000;
+}
+
+.Films {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 31%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Tvseries {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 39%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Cartoons {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 47%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Home {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 56.5%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.Profile {
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    position: fixed;
+    top: 3.3%;
+    left: 63%;
+    z-index: 1000;
+    display: block;
+    width: 80px;
+    height: 20px;
+}
+
+.First-Cahnnel {
+    border-radius: 20px;
+    position: relative;
+    left: 11%;
+    padding-top: 10.5%;
+    width: 450px;
+}
+
+.Second-Channel {
+    border-radius: 20px;
+    position: relative;
+    left: 10%;
+}
+
+.Ntv-Channel {
+    border-radius: 20px;
+    position: relative;
+    left: 10%;
+    width: 475px;
+
+
+}
+
+.Match-Channel {
+    border-radius: 20px;
+    position: relative;
+    left: 10%;
+    width: 450px;
+    padding-top: 10%;
+
+}
+
+.Karucel-Channel,.Sun-Channel {
+    border-radius: 20px;
+    position: relative;
+    left: 10%;
+    width: 475px;
+
+}
